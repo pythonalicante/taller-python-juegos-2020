@@ -11,4 +11,10 @@ Slides y Código para el taller de [Python Alicante](https://twitter.com/python_
 
 ## Python y Videojuegos?
 
-> vease: https://web.archive.org/web/20121021155936/http://onlamp.com/pub/a/python/2002/07/11/pythonnews.html
+> véase: https://web.archive.org/web/20121021155936/http://onlamp.com/pub/a/python/2002/07/11/pythonnews.html
+
+
+# Referencias
+
+- [Videojuegos con Python Arcade - PyConES 2020](https://www.youtube.com/watch?v=8kRgYh2lgTo)
+- [How-To Python Arcade](https://arcade.academy/examples/index.html)
