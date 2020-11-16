@@ -27,11 +27,11 @@ Slides y Código para el taller de [Python Alicante](https://twitter.com/python_
 Para poder seguir el tutorial, será necesario tener instalado:
 
 - [Python >= 3.6](https://www.python.org/downloads/)
-- [Arcade Academy Library](https://arcade.academy/installation.html#installation-instructions)
+- [Arcade Academy Library](https://arcade.academy/installation.html#installation-instructions) `pip install arcade` or `pip3 install arcade`.
 
 ### Introducción
 
-Este ejemplo, extraido del tutorial "platformer" de Arcade Library, construye un juego sencillo en 2D.
+Este ejemplo, extraido del [tutorial "platformer"](https://arcade.academy/examples/platform_tutorial/index.html) de Arcade Library, construye un juego sencillo en 2D.
 
 Muestra cómo trabajar con sprites y el ciclo de vida de un juego, así como la interacción con los controles de usuario y los elementos multimedia.
 
