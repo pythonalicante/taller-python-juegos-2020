@@ -36,7 +36,7 @@ Este ejemplo, extraido del [tutorial "platformer"](https://arcade.academy/exampl
 Muestra cómo trabajar con sprites y el ciclo de vida de un juego, así como la interacción con los controles de usuario y los elementos multimedia.
 
 Por sencillez, las diferentes fases de cosntrucción del juego propuesto en el tutorial, han sido trasladadas a ramas en el presente repositorio.  
-Dichas ramas, han sido numeradas desde la 000 a la 012. Van añadiendo, de forma oterativa, los diferentes elementos del juego.
+Dichas ramas, han sido numeradas desde la 000 a la 011. Van añadiendo, de forma iterativa, los diferentes elementos del juego.
 
 
 ### Referencias
@@ -44,4 +44,4 @@ Dichas ramas, han sido numeradas desde la 000 a la 012. Van añadiendo, de forma
 - [Simple platformer tutorial](https://arcade.academy/examples/platform_tutorial/index.html#simple-platformer)
 - Python [Arcade libreary](http://arcade.academy/)
 - [Tiled Map Editor](https://www.mapeditor.org/)
-- [ kenney.nl](kenney.nl)
+- [kenney.nl](kenney.nl)
